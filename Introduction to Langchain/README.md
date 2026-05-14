@@ -28,8 +28,7 @@
 | **Topic** | LangChain — an open-source framework for building applications with large language models (LLMs) |
 | **When** | Thursday, **February 15, 2024** — 5:00–6:00 p.m. |
 | **Where** | Library Room **135** (DiSH), Claire T. Carney Library |
-| **Presenter** | Sudhanshu Mukherjee |
-| **Host / contact** | Digital Scholarship Hub — Emma Wood · [emma.wood@umassd.edu](mailto:emma.wood@umassd.edu) |
+| **Presenter** | Sudhanshu Mukherjee — [@sudhanshumukherjeexx](https://github.com/sudhanshumukherjeexx) |
 
 ---
 

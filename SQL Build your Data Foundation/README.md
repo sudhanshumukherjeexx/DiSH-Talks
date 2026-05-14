@@ -35,7 +35,7 @@
 | **When** | Wednesday, **October 2, 2024** — 10:00–11:00 a.m. |
 | **Where** | Library Room **135**, Claire T. Carney Library (DiSH) |
 | **Format** | Beginner-friendly, hands-on orientation |
-| **Contact** | Emma Wood · [emma.wood@umassd.edu](mailto:emma.wood@umassd.edu) |
+| **Presenter** | Sudhanshu Mukherjee — [@sudhanshumukherjeexx](https://github.com/sudhanshumukherjeexx) |
 
 > *No prior experience required — just curiosity about how data lives in databases.*
 
@@ -71,7 +71,7 @@ This directory primarily holds **trusted external links** you can use after the 
 
 ## Suggested credit
 
-> Wood, E. (*Year*). *SQL basics: Building your data foundation* [Workshop resource list]. Digital Scholarship Hub, Claire T. Carney Library, University of Massachusetts Dartmouth. `https://github.com/sudhanshumukherjeexx/DiSH-Talks`
+> Mukherjee, S. (*Year*). *SQL basics: Building your data foundation* [Workshop resource list]. Digital Scholarship Hub, Claire T. Carney Library, University of Massachusetts Dartmouth. `https://github.com/sudhanshumukherjeexx/DiSH-Talks`
 
 ---
 

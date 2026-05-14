@@ -20,7 +20,7 @@ This collection brings together **slides, notebooks, datasets, and follow-up res
 
 If you use or adapt these materials, a short credit back to this repository and DiSH is appreciated.
 
-**Maintainer / library contact:** Emma Wood, Scholarly Communication — [emma.wood@umassd.edu](mailto:emma.wood@umassd.edu) · DiSH, Claire T. Carney Library.
+**Maintainer:** Sudhanshu Mukherjee — [@sudhanshumukherjeexx](https://github.com/sudhanshumukherjeexx) · [LinkedIn](https://www.linkedin.com/in/sudhanshumukherjeexx/).
 
 ---
 
@@ -51,6 +51,7 @@ Use whichever style your field expects. Examples:
 
 ```bibtex
 @misc{dish_workshops_umassd,
+  author       = {Mukherjee, Sudhanshu},
   title        = {Digital Scholarship Hub (DiSH) Workshop Materials},
   organization = {Claire T. Carney Library, University of Massachusetts Dartmouth},
   howpublished = {\url{https://github.com/sudhanshumukherjeexx/DiSH-Talks}},
