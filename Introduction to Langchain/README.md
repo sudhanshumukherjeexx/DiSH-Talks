@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![DiSH](https://img.shields.io/badge/Venue-DiSH%20%7C%20Room%20135-orange)](https://lib.umassd.edu/dish/resources/)
+[![Repo](https://img.shields.io/badge/GitHub-DiSH--Talks-181717?logo=github)](https://github.com/sudhanshumukherjeexx/DiSH-Talks)
 
 *LLM application patterns · Digital Scholarship Hub · University of Massachusetts Dartmouth*
 

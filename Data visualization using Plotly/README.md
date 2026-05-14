@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Express-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/python/plotly-express/)
 [![DiSH](https://img.shields.io/badge/Venue-DiSH%20%7C%20Claire%20T.%20Carney%20Library-orange)](https://lib.umassd.edu/dish/resources/)
+[![Repo](https://img.shields.io/badge/GitHub-DiSH--Talks-181717?logo=github)](https://github.com/sudhanshumukherjeexx/DiSH-Talks)
 
 *Workshop materials · Digital Scholarship Hub · University of Massachusetts Dartmouth*
 
@@ -65,7 +66,7 @@ This folder contains materials for a **DiSH** session on building **clear, inter
 
 > Mukherjee, S. (*Year*). *Data visualization using Plotly* [Workshop materials]. Digital Scholarship Hub, Claire T. Carney Library, University of Massachusetts Dartmouth.
 
-Point the URL to this folder in your public GitHub repository when published.
+Repository: [`sudhanshumukherjeexx/DiSH-Talks`](https://github.com/sudhanshumukherjeexx/DiSH-Talks) (this workshop lives under `Data visualization using Plotly/`.)
 
 ---
 

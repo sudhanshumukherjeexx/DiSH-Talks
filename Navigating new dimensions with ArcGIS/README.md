@@ -5,6 +5,7 @@
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-Spatial%20analysis-0079C1?logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 [![DiSH](https://img.shields.io/badge/Venue-DiSH%20%7C%20Room%20135-orange)](https://lib.umassd.edu/dish/resources/)
 [![Library](https://img.shields.io/badge/Claire%20T.%20Carney-Library-blue)](https://lib.umassd.edu/)
+[![Repo](https://img.shields.io/badge/GitHub-DiSH--Talks-181717?logo=github)](https://github.com/sudhanshumukherjeexx/DiSH-Talks)
 
 *Geospatial storytelling · Digital Scholarship Hub · University of Massachusetts Dartmouth*
 
